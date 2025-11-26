@@ -1,0 +1,8 @@
+{
+  "id": "123",
+  "name": "Fw",
+  "email": "fw@example.com",
+  "profilePicture": "https://example.com/avatar.png",
+  "accessToken": "abcd1234",
+  "phoneNumber": "0123456789"
+}
