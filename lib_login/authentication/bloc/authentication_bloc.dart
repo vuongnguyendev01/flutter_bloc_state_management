@@ -2,8 +2,8 @@ import 'dart:async';
 
 import 'package:authentication_repository/authentication_repository.dart';
 import 'package:bloc/bloc.dart';
-import 'package:trello_app/authentication/bloc/authentication_event.dart';
-import 'package:trello_app/authentication/bloc/authentication_state.dart';
+import 'authentication_event.dart';
+import 'authentication_state.dart';
 import 'package:user_repository/user_repository.dart';
 
 class AuthenticationBloc

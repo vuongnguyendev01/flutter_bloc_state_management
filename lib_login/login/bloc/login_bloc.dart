@@ -1,8 +1,8 @@
 import 'package:authentication_repository/authentication_repository.dart';
 import 'package:bloc/bloc.dart';
 import 'package:formz/formz.dart';
-import 'package:trello_app/login/models/password.dart';
-import 'package:trello_app/login/models/username.dart';
+import '../models/password.dart';
+import '../models/username.dart';
 
 import 'login_event.dart';
 import 'login_state.dart';

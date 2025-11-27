@@ -1,8 +1,8 @@
 
 import 'package:equatable/equatable.dart';
 import 'package:formz/formz.dart';
-import 'package:trello_app/login/models/password.dart';
-import 'package:trello_app/login/models/username.dart';
+import '../models/password.dart';
+import '../models/username.dart';
 
 final class LoginState extends Equatable {
   const LoginState({

@@ -1,11 +1,11 @@
 import 'package:authentication_repository/authentication_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:trello_app/authentication/bloc/authentication_bloc.dart';
-import 'package:trello_app/authentication/bloc/authentication_event.dart';
-import 'package:trello_app/authentication/bloc/authentication_state.dart';
-import 'package:trello_app/home/view/home_page.dart';
-import 'package:trello_app/splash/view/splash_page.dart';
+import 'authentication/bloc/authentication_bloc.dart';
+import 'authentication/bloc/authentication_event.dart';
+import 'authentication/bloc/authentication_state.dart';
+import 'home/view/home_page.dart';
+import 'splash/view/splash_page.dart';
 import 'package:user_repository/user_repository.dart';
 
 import 'login/view/login_page.dart';

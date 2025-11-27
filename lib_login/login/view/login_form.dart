@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:formz/formz.dart';
-import 'package:trello_app/login/bloc/login_bloc.dart';
-import 'package:trello_app/login/bloc/login_event.dart';
-import 'package:trello_app/login/bloc/login_state.dart';
+import '../bloc/login_bloc.dart';
+import '../bloc/login_event.dart';
+import '../bloc/login_state.dart';
 
 class LoginForm extends StatelessWidget {
   const LoginForm({super.key});
